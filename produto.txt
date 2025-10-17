@@ -1,0 +1,44 @@
+[
+  {
+    "nome": "Battle Strike",
+    "plataforma": "PlayStation 5",
+    "preco": 299.90,
+    "estoque": 20,
+    "categoria_id": 1
+  },
+  {
+    "nome": "Lost Kingdom",
+    "plataforma": "Xbox Series X",
+    "preco": 279.50,
+    "estoque": 15,
+   "categoria_id": 6
+  },
+  {
+    "nome": "Galaxy Tactics",
+    "plataforma": "PC",
+    "preco": 199.00,
+    "estoque": 25,
+    "categoria_id": 2
+  },
+  {
+    "nome": "Ultimate Soccer 2025",
+    "plataforma": "PlayStation 5",
+    "preco": 249.99,
+    "estoque": 30,
+    "categoria_id": 3
+  },
+  {
+    "nome": "Dragon Quest Legends",
+    "plataforma": "Nintendo Switch",
+    "preco": 289.00,
+    "estoque": 18,
+    "categoria_id": 4
+  },
+  {
+    "nome": "City Builder Pro",
+    "plataforma": "PC",
+    "preco": 159.90,
+    "estoque": 22,
+    "categoria_id": 6
+  }
+]
